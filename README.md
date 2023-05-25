@@ -1,6 +1,8 @@
-# Simple React App
+# Creating Transactions
 
-A simple template for a webpack-based React app
+A simple demo for creating transactions in a webpack-based React app
+
+This code was created as part of a video on creating transactions.
 
 ## Development Instructions
 

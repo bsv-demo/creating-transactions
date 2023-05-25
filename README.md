@@ -2,7 +2,8 @@
 
 A simple demo for creating transactions in a webpack-based React app
 
-This code was created as part of a video on creating transactions.
+This code was created as part of a video on [creating 
+transactions](https://www.youtube.com/watch?v=7eLJ2qsKj-M).
 
 ## Development Instructions
 
